@@ -1,2 +1,3 @@
-# OLS-v.0.1
-Ogorodnikov Life Simulator, version 0.1
+# OLS-v.0.2.1
+Ogorodnikov Life Simulator, version 0.2.1
+Hotfix
